@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.git"
+		},
+		{
+			"path": "..\\..\\backend"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\frontend-admin"
+		},
+		{
+			"path": "..\\..\\spring-boot-full-course"
+		}
+	]
+}
